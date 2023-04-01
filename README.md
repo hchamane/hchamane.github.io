@@ -12,7 +12,7 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
 
 # Module 1: Launching into Computer Science (LCS)*
 
-  - Unit 1: Computing as a Profession – Responsibilities and Challenges
+ ## - Unit 1: Computing as a Profession – Responsibilities and Challenges
   - Unit 2: Introduction to Computer Architecture and the Functionality
   - Unit 3: Emerging Trends in Computer Science
   - Unit 4: Computing Infrastructure and Network
