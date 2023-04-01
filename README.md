@@ -12,7 +12,7 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
 
 # Module 1: Launching into Computer Science (LCS)*
 
- ## - Unit 1: Computing as a Profession – Responsibilities and Challenges
+  - Unit 1: Computing as a Profession – Responsibilities and Challenges
   - Unit 2: Introduction to Computer Architecture and the Functionality
   - Unit 3: Emerging Trends in Computer Science
   - Unit 4: Computing Infrastructure and Network
@@ -22,6 +22,7 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 8: An Introduction to Algorithms and Basic Programming Concepts
   - Unit 9: Solving Problems Using Python
   - Unit 10: Data Representation using Database Concepts
+  ## [Download Skill Development Tracker Program](https://hchamane.github.io/essex.html) 
   - Unit 11: Advanced SQL
   - Unit 12: Research Topics in Computer Science – Data Science, AI, and Standards
 
