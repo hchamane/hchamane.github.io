@@ -26,7 +26,7 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 11: Advanced SQL
   - Unit 12: Research Topics in Computer Science – Data Science, AI, and Standards
 
-# Module 2: Object-oriented Information Systems
+# Module 2: Object-oriented Programming
 
 
 # Module 3: Secure Software Development
