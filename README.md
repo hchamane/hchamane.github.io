@@ -56,4 +56,5 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
 
 # *= Core Module
 
-# ![](https://hit.yhype.me/github/profile?user_id=47830937)
+
+![](https://hit.yhype.me/github/profile?user_id=47830937)
