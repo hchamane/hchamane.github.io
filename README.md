@@ -40,7 +40,18 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 12: Working with Design Patterns to Structure Code
 
 # Module 3: Secure Software Development
-
+  - Unit 1: Introduction to Secure Software Development
+  - Unit 2: UML Modelling to Support Secure System Planning
+  - Unit 3: Programming Languages: History, Concepts & Design
+  - Unit 4: Exploring Programming Language Concepts
+  - Unit 5: An Introduction to Testing
+  - Unit 6: Using Linters to Support Python Testing
+  - Unit 7: Introduction to Operating Systems
+  - Unit 8: Cryptography and Its Use in Operating Systems
+  - Unit 9: Developing an API for a Distributed Environment
+  - Unit 10: From Distributed Computing to Microarchitectures
+  - Unit 11: Future Trends in Secure Software Development
+  - Unit 12: The Great Tanenbaum-Torvalds Debate Revisited
 
 # Module 4: Network and Information Security Management
 
