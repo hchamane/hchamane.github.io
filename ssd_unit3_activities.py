@@ -7,13 +7,14 @@
 
 # import the libraries needed
 import pygame
+import models
 import sys
 
 # Initialise Pygame
 pygame.init()
 
 # Constants for screen size and colors
-window_size = (640, 480)
+window_size = (900, 700)
 backgroung_color = (255, 255, 255)
 peg_color = (149, 149, 149)
 disk_colors = [(252, 51, 61), (252, 106, 7), (255, 255, 11), (69, 255, 60), (64, 146, 255)]
