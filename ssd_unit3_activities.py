@@ -27,9 +27,6 @@ pygame.display.set_caption("Tower of Hanoi")
 
 # Definition of a grid that can be used to convert between coordinates of larger cells and pixel coordinates
 class Grid:
-    """
-    object-creation pattern
-    """
     def __init__(self, left_x, top_y, width, height):
         self.leftX = left_x
         self.topY = top_y
@@ -37,25 +34,14 @@ class Grid:
         self.height = height
 
     def pixel_x(self, grid_x):
-        """
-        :param grid_x:
-        :return:
-        """
         return self.leftX + grid_x * self.width
 
     def pixel_y(self, grid_y):
-        """
-        :param grid_y:
-        :return:
-        """
         return self.topY + grid_y * self.height
 
 
 # Definition of a disk sprite
 class Disk:
-    """
-    Color the objects
-    """
     def __init__(self, number, peg, color):
         self.number = number
         self.peg = peg
@@ -67,24 +53,15 @@ class Disk:
         peg.addDisk(self)
 
     def move_to_peg(self, dest_peg):
-        """
-        :param dest_peg:
-        """
         self.peg.removeDisk()
         self.peg = dest_peg
         self.peg.addDisk(self)
 
     def move_to_peg_position(self):
-        """
-        peg movement
-        """
         self.x = self.peg.x + self.peg.w / 2 - self.w / 2
         self.y = self.peg.y + self.peg.h - (self.h + 0.1) * (self.peg.getNumberOfDisksUnder(self) + 1)
 
     def draw(self):
-        """
-        pygame
-        """
         pygame.draw.rect(screen, self.color, (self.x, self.y, self.w, self.h))
         font = pygame.font.Font(None, 36)
         text = font.render(str(self.number), True, (0, 0, 0))
@@ -94,9 +71,6 @@ class Disk:
 
 # Definition of a peg sprite
 class Peg:
-    """
-    peg class
-    """
     def __init__(self, letter, number, x1, y1, w, h):
         self.letter = letter
         self.number = number
@@ -107,46 +81,24 @@ class Peg:
         self.disks = []
 
     def removeDisk(self):
-        """
-        remove disks
-        """
         if self.disks:
             self.disks.pop()
 
     def addDisk(self, disk):
-        """
-        :param disk:
-        """
         self.disks.append(disk)
 
     def countDisks(self):
-        """
-
-        :return:
-        """
         return len(self.disks)
 
     def getTopDisk(self):
-        """
-        get top disks
-        :return:
-        """
         if self.disks:
             return self.disks[-1]
         return None
 
     def getNumberOfDisksUnder(self, disk):
-        """
-
-        :param disk:
-        :return:
-        """
         return self.disks.index(disk)
 
     def draw(self):
-        """
-        draw
-        """
         pygame.draw.rect(screen, peg_color, (self.x, self.y, self.w, self.h))
         font = pygame.font.Font(None, 36)
         text = font.render(self.letter, True, (0, 0, 0))
