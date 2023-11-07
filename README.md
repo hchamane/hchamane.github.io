@@ -53,8 +53,13 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 11: Future Trends in Secure Software Development
   - Unit 12: The Great Tanenbaum-Torvalds Debate Revisited
 
-# Module 4: Network and Information Security Management
-
+# Module 4: Network Security
+  - Unit 1: History of Network Security, Vulnerabilities and Approaches
+  - Unit 2: Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study
+  - Unit 3: Vulnerability Assessments
+  - Unit 4: Breach Analysis and Mitigation
+  - Unit 5: Logging, Forensics and Future Trends
+  - Unit 6: The Great Debate: The Future of the Internet
 
 # Module 5: Software Engineering Project Management
 
