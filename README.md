@@ -61,8 +61,13 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 5: Logging, Forensics and Future Trends
   - Unit 6: The Great Debate: The Future of the Internet
 
-# Module 5: Software Engineering Project Management
-
+# Module 5: Information Security Management
+  - Unit 1: An Introduction to Security and Risk Management
+  - Unit 2: Threat Modelling Exercises
+  - Unit 3: Introduction to Threat Modelling and Management
+  - Unit 4: Security Standards, Frameworks and Disaster Recovery
+  - Unit 5: Future Trends in Security and Risk Management
+  - Unit 6: The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?
 
 # Module 6: Research Methods and Professional Practice*
 
