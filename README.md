@@ -1,6 +1,6 @@
 # Hainadine Chamane - ePortfolio
 
-This e-Portfolio was thoughtfully created to showcase the outcomes of my M.Sc. in Computer Science studies at the University of Essex in the UK.
+This ePortfolio was thoughtfully created to showcase the outcomes of my M.Sc. in Computer Science studies at the University of Essex in the UK.
 
 See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfolio of the subjects below.
 
@@ -69,9 +69,20 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 5: Future Trends in Security and Risk Management
   - Unit 6: The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?
 
-# Module 6: Research Methods and Professional Practice*
-
-
+# Module 6: Software Engineering Project Management
+  - Unit 1: Introduction to Software Engineering Project Management
+  - Unit 2: Study: Why Projects Fail and Gathering Requirements Exercise
+  - Unit 3: Estimating, Planning and Risk
+  - Unit 4: Estimating Tools and Risk Assessment
+  - Unit 5: User Experience
+  - Unit 6: pytest and Test-Driven Development
+  - Unit 7: Software Development Life Cycles
+  - Unit 8: Python Data Structures
+  - Unit 9: Quality Management Strategy
+  - Unit 10: Software Quality Monitoring in Python
+  - Unit 11: Software Engineering Project Management: Future Trends
+  - Unit 12: The Case for the Future Direction of Software Engineering Project Management
+    
 # Module 7: MSc Computing Project and Dissertation*
 
 
