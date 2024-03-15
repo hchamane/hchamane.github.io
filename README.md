@@ -1,6 +1,6 @@
 # Hainadine Chamane - ePortfolio
 
-This ePortfolio was thoughtfully created to showcase the outcomes of my M.Sc. in Computer Science studies at the University of Essex in the UK.
+This ePortfolio showcases the outcomes of my M.Sc. in Computer Science studies at the University of Essex in the UK.
 
 See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfolio of the subjects below.
 
