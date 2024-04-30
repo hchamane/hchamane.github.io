@@ -83,8 +83,19 @@ See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfo
   - Unit 11: Software Engineering Project Management: Future Trends
   - Unit 12: The Case for the Future Direction of Software Engineering Project Management
     
-# Module 7: MSc Computing Project and Dissertation*
-
+# Module 7: Research Methods and Professional Practice
+  - Unit 1: Introduction to Research Methods. The Scientific Investigation and Ethics in Computing
+  - Unit 2: Research Questions, the Literature Review and the Research Proposal
+  - Unit 3: Methodology and Research Methods
+  - Unit 4: Case Studies, Focus Groups and Observations
+  - Unit 5: Interviews, Survey Methods, and Questionnaire Design
+  - Unit 6: Quantitative Methods - Descriptive and Inferential Statistics
+  - Unit 7: Inferential Statistics and Hypothesis Testing
+  - Unit 8: Data Analysis and Visualisation
+  - Unit 9: Validity and Generalisability in Research
+  - Unit 10: Research Writing
+  - Unit 11: Going Forward: Professional Development and Your e-Portfolio
+  - Unit 12: Project Management and Managing Risk
 
 # *= Core Module
 
