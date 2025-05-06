@@ -2,7 +2,7 @@
 
 This ePortfolio showcases the outcomes of my M.Sc. in Computer Science studies at the University of Essex in the UK.
 
-See the [complete content](https://hchamane.github.io/essex.html ( target="_blank")) in my e-Portfolio of the subjects below.
+See the [complete content](https://hchamane.github.io/essex.html) in my e-Portfolio of the subjects below.
 
 # Induction Module
 - Module aims
